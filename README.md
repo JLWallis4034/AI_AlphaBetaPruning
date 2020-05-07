@@ -24,7 +24,7 @@ Minimax is a useful algorithm in the world of AI. It has been used in many ways 
 
 Many sources were used in order to make this tutorial as clear-cut and (hopefully) understandable as possible. They are listed below for anyone wanting to take a deeper dive into either of these algorithms.
 
-https://www.geeksforgeeks.org/minimax-algorithm-in-game-theory-set-4-alpha-beta-pruning/ - This website contains a code example for minimax and alpha-beta pruning. The code in the Visual Studio project is very much based on the code here, with some adjustments.
+https://www.geeksforgeeks.org/minimax-algorithm-in-game-theory-set-4-alpha-beta-pruning/ - This website contains a code example for minimax and alpha-beta pruning. The code in the Visual Studio project is based on the code here with some adjustments.
 
 https://en.wikipedia.org/wiki/Minimax and https://en.wikipedia.org/wiki/Alpha%E2%80%93beta_pruning - Although Wikipedia is a freely editable website, these pages did seem to provide ample information regarding both minimax and alpha-beta pruning that would succeed in helping anyone who wishes to learn more.
 
